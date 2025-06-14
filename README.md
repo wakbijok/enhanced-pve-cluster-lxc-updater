@@ -1,6 +1,6 @@
 # Proxmox Cluster LXC Updater
 
-A comprehensive script for updating LXC containers across a Proxmox VE cluster. Combines the excellent user experience of tteck's community scripts with cluster-wide capabilities and safety features.
+A comprehensive script for updating LXC containers across a Proxmox VE cluster. Combines the excellent user experience of tteck's community scripts with cluster-wide capabilities and safety features. I tested this on 3 nodes HCI Proxmox. You should adjust accordingly
 
 ## ✨ Features
 
