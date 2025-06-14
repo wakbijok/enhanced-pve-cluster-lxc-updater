@@ -42,8 +42,8 @@ A comprehensive script for updating LXC containers across a Proxmox VE cluster. 
 
 1. Clone this repository or download the script:
 ```bash
-git clone <your-repo-url>
-cd <repo-directory>
+git clone https://github.com/wakbijok/enhanced-pve-cluster-lxc-updater.git
+cd enhanced-pve-cluster-lxc-updater
 ```
 
 2. Make the script executable:
